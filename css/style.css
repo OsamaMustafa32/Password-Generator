@@ -1,0 +1,41 @@
+body{
+   background: url(img.jpeg);
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 80px;
+    font-size: 2em;
+}
+.out{
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 20px 20px;
+}
+.myBtn{
+    padding: 20px 20px;
+    font-size: 40px;
+    margin-bottom: 20px;
+    
+    
+}
+.pass{
+    padding: 20px 20px;
+    width: 400px;
+    font-size: 30px;
+    background-color:darkslategray;
+    color: white; 
+    float: left;
+}
+.in{
+    padding: 18px 10px;
+    float: right;
+}
+.h1{
+    color: black;
+    font-family: 'Pacifico', cursive;
+    font-size: 4em;
+    margin-top: 50px;
+    opacity: .8;
+}
